@@ -6,6 +6,7 @@ FURIA Fan Chat é um chatbot interativo desenvolvido inteiramente com HTML, CSS 
 O objetivo é oferecer uma interface amigável para fãs do time de CS:GO da FURIA interagirem, acompanharem as partidas, receberem curiosidades e se manterem conectados ao universo competitivo da equipe.
 
 ✨ Funcionalidades Implementadas
+
 💬 Interface de Chat Simulada
 - Comportamento de bot com respostas automáticas pré-programadas.
 
