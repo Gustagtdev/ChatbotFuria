@@ -5,9 +5,9 @@ O objetivo é oferecer uma interface amigável para fãs do time de CS:GO da FUR
 
 ✨ Funcionalidades Implementadas
 💬 Interface de Chat Simulada
-1- Comportamento de bot com respostas automáticas pré-programadas.
+- Comportamento de bot com respostas automáticas pré-programadas.
 
-2- Interface estilizada que simula uma conversa entre usuário e bot.
+- Interface estilizada que simula uma conversa entre usuário e bot.
 
 📅 Agenda de Jogos (Simulada)
 - Exibe os próximos jogos do time em formato de mensagem do bot.
