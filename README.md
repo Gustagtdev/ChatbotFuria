@@ -2,7 +2,7 @@
 
 📌 Visão Geral
 
-O ChatBotFuria é um chatbot interativo desenvolvido inteiramente com HTML, CSS e JavaScript puro, sem frameworks ou backend.
+O ChatFuria é um chatbot interativo desenvolvido inteiramente com HTML, CSS e JavaScript puro, sem frameworks ou backend.
 O objetivo é oferecer uma interface amigável para fãs do time de CS:GO da FURIA interagirem, acompanharem as partidas, receberem curiosidades e se manterem conectados ao universo competitivo da equipe.
 
 ✨ Funcionalidades Implementadas
